@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>By- <a href="https://magalybelmontes77.notion.site/Magaly-s-creativity-home-8a88ba5e947f44ffb5d35acebf64f678">Magaly </a>Web Developer</p>
+		<p>By- <a href="https://magalybelmontes77.notion.site/Magaly-s-creativity-home-8a88ba5e947f44ffb5d35acebf64f678">Magaly Belmontes 🖤</a>
 		
 	</footer>
 </div>
