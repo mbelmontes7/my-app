@@ -1,7 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import logo from '$lib/images/svelte-logo.svg';
-	import github from '$lib/images/github.svg';
+	
 </script>
 
 <header>
@@ -39,15 +38,15 @@
 	}
 
 	.corner {
-		width: 3em;
-		height: 3em;
+		width: 2em;
+		height: 9em;
 	}
 
 
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
+		--background: rgba(100, 1, 900, 0.967)
 	}
 
 	svg {
@@ -105,6 +104,6 @@
 	}
 
 	a:hover {
-		color: var(--color-theme-1);
+		color: aqua;
 	}
 </style>

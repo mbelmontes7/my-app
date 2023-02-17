@@ -11,7 +11,8 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learnvfvf SvelteKit</p>
+		<p>By- <a href="https://magalybelmontes77.notion.site/Magaly-s-creativity-home-8a88ba5e947f44ffb5d35acebf64f678">Magaly </a>Web Developer</p>
+		
 	</footer>
 </div>
 
@@ -20,6 +21,7 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
+		color: rgb(13, 1, 25);
 	}
 
 	main {
@@ -31,6 +33,7 @@
 		max-width: 64rem;
 		margin: 0 auto;
 		box-sizing: border-box;
+		
 	}
 
 	footer {
@@ -43,6 +46,7 @@
 
 	footer a {
 		font-weight: bold;
+		color: rgb(43, 8, 104);
 	}
 
 	@media (min-width: 480px) {
