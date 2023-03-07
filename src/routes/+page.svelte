@@ -105,7 +105,7 @@
 		</div>
 		<div class="Ready">
 			<h1>
-				Are you ready to stop crying every time you have a math exam?
+				Overcome your math anxiety!
 			</h1>
 		</div>
 		</div>
