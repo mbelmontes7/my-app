@@ -97,15 +97,15 @@
 		</style>
 		<div class="Story">
 			<h1 style="font-weight: bold; font-size: 20px;">
-				Once upon a time, there was a spaceship named StarMath, 🚀 flying through the galaxy. On
-				board were two astronauts, Alex and Maya, who were on a mission to explore new planets and
-				galaxies.
+				StarMath is an AI-powered app that helps students with a learning disability to learn multiplication tables through a space-themed.
+				The app's machine learning algorithms analyze the student's performance and adjust the content and presentation accordingly.
+		 		Students can set goals and track progress, ensuring they stay motivated. 
+		 		StarMath is an excellent tool for students to build a solid foundation in math and succeed academically. 
 			</h1>
 		</div>
 		<div class="Ready">
 			<h1>
-				Are you ready to join them? Buckle up, because we're going on a fun trip to space with Alex
-				and Maya!
+				Are you ready to stop crying every time you have a math exam?
 			</h1>
 		</div>
 		</div>
